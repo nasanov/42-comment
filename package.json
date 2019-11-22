@@ -3,7 +3,7 @@
 	"displayName": "42-comment",
 	"description": "42-style block comments",
 	"icon": "images/42-comment-logo.png",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"publisher": "nasanov",
 	"repository": {
         "url": "https://github.com/nasanov/42-comment"
@@ -24,6 +24,14 @@
 				"command": "extension.42-comment",
 				"title": "42-comment"
 			}
+		],
+		"keybindings": [
+			{
+				"command": "extension.42-comment",
+				"key": "ctrl+alt+*",
+				"mac": "shift+cmd+*",
+				"when": "editorTextFocus"
+			},
 		]
 	},
 	"scripts": {
