@@ -33,7 +33,7 @@ And run the command:
 ## Keybindings
 You can bind these commands to a shortcut by adding something like this to your `keybindings.json`:
 ```
-{ "key": "shiftcmd+*", "command": "extension.42-comment", "when": "editorTextFocus"}
+{ "key": "shift+cmd+*", "command": "extension.42-comment", "when": "editorTextFocus"}
 ```
 or go to Preferences -> Keyboard Shortcuts, find 42-comment, add a shortcut
 
