@@ -18,10 +18,3 @@ function convertToComment(text) {
 module.exports = {
     convertToComment
 }
-
-
-
-
-ascii
-readme
-keymap
