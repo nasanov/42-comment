@@ -1,6 +1,4 @@
-# 42-comment README
-
-42-style block comments
+# 42-style block comments
 
 ## Features
 
